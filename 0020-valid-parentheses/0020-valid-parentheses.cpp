@@ -15,9 +15,9 @@ public:
                else
                {
                     char Top=st.top(); // only we check this condition if stack is not empty
-                         if(c==')' && Top=='('
-                        || c=='}' && Top=='{'
-                    || c==']' && Top=='[')
+                         if(c==')' && Top=='(' ||
+                         c=='}' && Top=='{' ||
+                         c==']' && Top=='[')
                         {
                             st.pop();
                         }
@@ -31,6 +31,6 @@ public:
         }
         if(st.size()!=0) return false;
         return true;
-        
+        // basically in this question multiple if else condition is used 
     }
 };
