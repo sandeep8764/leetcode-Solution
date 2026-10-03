@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0018-4sum) |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
