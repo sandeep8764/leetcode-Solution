@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/sandeep8764/leetcode-Solution/tree/master/0214-shortest-palindrome) |
 | [0443-string-compression](https://github.com/sandeep8764/leetcode-Solution/tree/master/0443-string-compression) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
