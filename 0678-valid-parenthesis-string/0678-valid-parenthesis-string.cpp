@@ -1,41 +1,34 @@
 class Solution {
 public:
-    bool checkValidString(string s) {
-        // Final result is Boolean 
-        // valid Parenthesis 
-        // * is treated as  can ( or )
-
-        // Step01 Left to right traversal 
-        int minopen=0;
-        int maxopen=0;
-        for(int i=0;i<s.length();i++)
+    int  t[101][101];
+    bool solve(string & s ,int idx, int balance)
+    {
+        if(balance<0)
         {
-            if(s[i]=='(')
-            {
-                minopen++;
-                maxopen++;
-            }
-            else if(s[i]==')')
-            {
-                minopen--;
-                maxopen--;
-            }
-            else
-            {
-                minopen--;
-                maxopen++;
-            }
-            if(minopen<0)
-            {
-                minopen=0;
-            }
-            if(maxopen<0)
-            {
-                return false;
+            return false;
 
-            }
         }
-        return minopen==0;
-        // return true;
+        if(idx==s.length())
+        {
+            return balance==0;
+        }
+        if(t[idx][balance] != -1)
+            return t[idx][balance];
+        if(s[idx]=='(')
+        {
+            return t[idx][balance]=solve(s,idx+1,balance+1);
+        }
+        if(s[idx]==')')
+        {
+            return t[idx][balance]=solve(s,idx+1,balance-1);
+        }
+        return t[idx][balance]=solve(s,idx+1,balance+1) || solve(s,idx+1,balance-1) || solve(s, idx+1, balance);
+    }
+    bool checkValidString(string s) {
+        memset(t,-1,sizeof(t));
+         return solve(s,0,0);
+        
+
+        
     }
 };
