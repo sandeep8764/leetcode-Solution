@@ -5,29 +5,25 @@ public:
         // (A) → 2 × score(A)
         // AB → score(A) + score(B)
         int score=0;
-        stack<int> st;
-        st.push(0);
+        int depth=0;
         for(int i=0;i<s.length();i++)
         {
             if(s[i]=='(')
             {
-                st.push(0);
+                depth++;
             }
             else
             {
-                 int inner_score=st.top();
-                 st.pop();
-                 if(inner_score==0)
-                 {
-                    score=1;
-                 }
-                 else
-                 {
-                    score=2*inner_score;
-                 }
-                 st.top()+=score;
+                depth--;
+                
+                if(s[i-1]=='(')
+                {
+                    
+                    score+=(1<<depth) ;// left shift concept 
+
+                }
             }
         }
-        return st.top();
+        return score;
     }
 };
