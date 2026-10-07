@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/sandeep8764/leetcode-Solution/tree/master/0214-shortest-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/sandeep8764/leetcode-Solution/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0856-score-of-parentheses) |
@@ -206,8 +207,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0040-combination-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
