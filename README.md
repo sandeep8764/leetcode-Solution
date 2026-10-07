@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandeep8764/leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0040-combination-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
