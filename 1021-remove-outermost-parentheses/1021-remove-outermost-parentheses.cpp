@@ -1,35 +1,34 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        // Here valid parenthesis is GIven 
-        // Remove the outermost parenthesis
-        // Final Answer is String 
-
-        //  Step01 to tore the final string 
-        
-        int balance=0;
+        stack<char> st;
         string ans="";
-        string current="";
         for(int i=0;i<s.length();i++)
         {
+            
             if(s[i]=='(')
             {
-                balance++;
-                current=current+"(";
+                if(st.size()!=0)
+                {
+                    ans=ans+"(";
+                }
+                    st.push(s[i]);
             }
             else
             {
-                balance--;
-                current=current+")";
-            }
-            if(balance==0)
-            {
-                int n=current.length();
-                ans=ans+current.substr(1,n-2);
-                current="";
+                if(st.size()==1)
+                {
+                    st.pop();
+                }
 
+                else 
+                {
+                    ans=ans+')';
+                    st.pop();
+                }
             }
         }
         return ans;
+        
     }
 };
