@@ -15,7 +15,7 @@ public:
             maxi = max(maxi, diff[i]);
         }
 
-        // If all differences can be eliminated
+        
         long long total = 0;
         for (int d : diff) {
             total += d;
@@ -25,7 +25,7 @@ public:
 
         int low = 0, high = maxi;
 
-        // Find the minimum maximum difference possible
+        
         while (low < high) {
             int mid = low + (high - low) / 2;
             long long operations = 0;
@@ -56,8 +56,7 @@ public:
             ans += 1LL * d * d;
         }
 
-        // Distribute remaining operations to values at the limit.
-        // Each such operation reduces one limit to limit - 1.
+        
         if (limit > 0 && remaining > 0) {
             ans -= remaining * (2LL * limit - 1);
         }
