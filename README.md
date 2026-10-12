@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandeep8764/leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep8764/leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
@@ -308,5 +311,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
