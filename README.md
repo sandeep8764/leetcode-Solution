@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sandeep8764/leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep8764/leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sandeep8764/leetcode-Solution/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
