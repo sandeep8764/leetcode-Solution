@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0214-shortest-palindrome](https://github.com/sandeep8764/leetcode-Solution/tree/master/0214-shortest-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/sandeep8764/leetcode-Solution/tree/master/0443-string-compression) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
 | [0994-rotting-oranges](https://github.com/sandeep8764/leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/sandeep8764/leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
