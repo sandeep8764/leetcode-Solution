@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0001-two-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Sorting
 |  |
