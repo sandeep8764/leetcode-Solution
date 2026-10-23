@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
+| [0303-range-sum-query-immutable](https://github.com/sandeep8764/leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
 | [0994-rotting-oranges](https://github.com/sandeep8764/leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sandeep8764/leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sandeep8764/leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
