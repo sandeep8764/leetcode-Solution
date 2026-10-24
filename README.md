@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/sandeep8764/leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sandeep8764/leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/sandeep8764/leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
