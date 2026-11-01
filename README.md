@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sandeep8764/leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/sandeep8764/leetcode-Solution/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sandeep8764/leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/sandeep8764/leetcode-Solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sandeep8764/leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/sandeep8764/leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sandeep8764/leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeep8764/leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sandeep8764/leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sandeep8764/leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -385,5 +389,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sandeep8764/leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
