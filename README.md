@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeep8764/leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sandeep8764/leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String Matching
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sandeep8764/leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeep8764/leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/sandeep8764/leetcode-Solution/tree/master/0372-super-pow) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sandeep8764/leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeep8764/leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Linked List
 |  |
@@ -403,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
