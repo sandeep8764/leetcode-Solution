@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/sandeep8764/leetcode-Solution/tree/master/0372-super-pow) |
 | [0633-sum-of-square-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/sandeep8764/leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sandeep8764/leetcode-Solution/tree/master/3870-count-commas-in-range) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sandeep8764/leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/sandeep8764/leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/sandeep8764/leetcode-Solution/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/sandeep8764/leetcode-Solution/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0372-super-pow](https://github.com/sandeep8764/leetcode-Solution/tree/master/0372-super-pow) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Euler's Totient Function
 |  |
@@ -358,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/sandeep8764/leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sandeep8764/leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeep8764/leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -418,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bellman–Ford Algorithm
 |  |
@@ -427,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sandeep8764/leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
