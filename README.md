@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/sandeep8764/leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sandeep8764/leetcode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep8764/leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
