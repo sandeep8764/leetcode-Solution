@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/sandeep8764/leetcode-Solution/tree/master/0994-rotting-oranges) |
+| [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/sandeep8764/leetcode-Solution/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep8764/leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+| [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandeep8764/leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeep8764/leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeep8764/leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep8764/leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+| [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/sandeep8764/leetcode-Solution/tree/master/2404-most-frequent-even-element) |
 ## Design
