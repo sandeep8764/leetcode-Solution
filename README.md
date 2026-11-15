@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/sandeep8764/leetcode-Solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
