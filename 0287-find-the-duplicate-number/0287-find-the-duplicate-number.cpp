@@ -1,6 +1,6 @@
 class Solution {
 public:
-// method 03 cyccle sort approach 
+// method 03 cyccle sort approach  but int his ways input arrays is changing 
     int findDuplicate(vector<int>& nums) {
         int n=nums.size();
         int i=0;
