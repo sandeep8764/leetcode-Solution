@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sandeep8764/leetcode-Solution/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep8764/leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sandeep8764/leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sandeep8764/leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/sandeep8764/leetcode-Solution/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sandeep8764/leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeep8764/leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeep8764/leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sandeep8764/leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep8764/leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
