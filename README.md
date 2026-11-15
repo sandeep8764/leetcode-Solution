@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sandeep8764/leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sandeep8764/leetcode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3871-count-commas-in-range-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/sandeep8764/leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/sandeep8764/leetcode-Solution/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/sandeep8764/leetcode-Solution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0301-remove-invalid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0797-all-paths-from-source-to-target](https://github.com/sandeep8764/leetcode-Solution/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep8764/leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
