@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sandeep8764/leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeep8764/leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/sandeep8764/leetcode-Solution/tree/master/1732-find-the-highest-altitude) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/sandeep8764/leetcode-Solution/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/sandeep8764/leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sandeep8764/leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sandeep8764/leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/sandeep8764/leetcode-Solution/tree/master/2404-most-frequent-even-element) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep8764/leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
