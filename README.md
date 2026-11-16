@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/sandeep8764/leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sandeep8764/leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
