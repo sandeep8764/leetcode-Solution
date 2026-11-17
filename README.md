@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/sandeep8764/leetcode-Solution/tree/master/0050-powx-n) |
 | [0223-rectangle-area](https://github.com/sandeep8764/leetcode-Solution/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/sandeep8764/leetcode-Solution/tree/master/0372-super-pow) |
 | [0633-sum-of-square-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/sandeep8764/leetcode-Solution/tree/master/0836-rectangle-overlap) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sandeep8764/leetcode-Solution/tree/master/0079-word-search) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep8764/leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/sandeep8764/leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sandeep8764/leetcode-Solution/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -473,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
