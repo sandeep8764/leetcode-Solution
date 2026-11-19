@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sandeep8764/leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sandeep8764/leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sandeep8764/leetcode-Solution/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sandeep8764/leetcode-Solution/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/sandeep8764/leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [1090-largest-values-from-labels](https://github.com/sandeep8764/leetcode-Solution/tree/master/1090-largest-values-from-labels) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
