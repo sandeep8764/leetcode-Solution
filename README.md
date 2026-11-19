@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3275-k-th-nearest-obstacle-queries](https://github.com/sandeep8764/leetcode-Solution/tree/master/3275-k-th-nearest-obstacle-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sandeep8764/leetcode-Solution/tree/master/3364-minimum-positive-sum-subarray) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sandeep8764/leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2404-most-frequent-even-element](https://github.com/sandeep8764/leetcode-Solution/tree/master/2404-most-frequent-even-element) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sandeep8764/leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/sandeep8764/leetcode-Solution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
