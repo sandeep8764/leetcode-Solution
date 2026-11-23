@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sandeep8764/leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep8764/leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/sandeep8764/leetcode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3693-climbing-stairs-ii) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep8764/leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/sandeep8764/leetcode-Solution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep8764/leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sandeep8764/leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sandeep8764/leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3729-count-distinct-subarrays-divisible-by-k-in-sorted-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/3729-count-distinct-subarrays-divisible-by-k-in-sorted-array) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep8764/leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/sandeep8764/leetcode-Solution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Recursion
 |  |
