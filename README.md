@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep8764/leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/sandeep8764/leetcode-Solution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sandeep8764/leetcode-Solution/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3917-count-indices-with-opposite-parity](https://github.com/sandeep8764/leetcode-Solution/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
 | ------- |
