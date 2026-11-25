@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2295-replace-elements-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2295-replace-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sandeep8764/leetcode-Solution/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2404-most-frequent-even-element](https://github.com/sandeep8764/leetcode-Solution/tree/master/2404-most-frequent-even-element) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeep8764/leetcode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2295-replace-elements-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2295-replace-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sandeep8764/leetcode-Solution/tree/master/2404-most-frequent-even-element) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandeep8764/leetcode-Solution/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sandeep8764/leetcode-Solution/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
+| [2295-replace-elements-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2295-replace-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
