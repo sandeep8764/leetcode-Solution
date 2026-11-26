@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sandeep8764/leetcode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sandeep8764/leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sandeep8764/leetcode-Solution/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3360-stone-removal-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sandeep8764/leetcode-Solution/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sandeep8764/leetcode-Solution/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/sandeep8764/leetcode-Solution/tree/master/3870-count-commas-in-range) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/0682-baseball-game) |
 | [2295-replace-elements-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2295-replace-elements-in-an-array) |
+| [3360-stone-removal-game](https://github.com/sandeep8764/leetcode-Solution/tree/master/3360-stone-removal-game) |
 ## Dynamic Programming
 |  |
 | ------- |
