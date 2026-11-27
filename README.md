@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sandeep8764/leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/sandeep8764/leetcode-Solution/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sandeep8764/leetcode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/sandeep8764/leetcode-Solution/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sandeep8764/leetcode-Solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/sandeep8764/leetcode-Solution/tree/master/2057-smallest-index-with-equal-value) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sandeep8764/leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sandeep8764/leetcode-Solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sandeep8764/leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sandeep8764/leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sandeep8764/leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sandeep8764/leetcode-Solution/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2295-replace-elements-in-an-array](https://github.com/sandeep8764/leetcode-Solution/tree/master/2295-replace-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/sandeep8764/leetcode-Solution/tree/master/2404-most-frequent-even-element) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/sandeep8764/leetcode-Solution/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/sandeep8764/leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sandeep8764/leetcode-Solution/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/sandeep8764/leetcode-Solution/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/sandeep8764/leetcode-Solution/tree/master/2404-most-frequent-even-element) |
 ## Design
 |  |
